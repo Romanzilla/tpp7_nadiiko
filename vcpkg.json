@@ -1,0 +1,8 @@
+{
+  "name": "tpp7-nadiiko",
+  "version-string": "1.0.0",
+  "description": "Лабораторна робота №7 (Варіант 18): Обробка винятків та модульне тестування C++20",
+  "dependencies": [
+    "gtest"
+  ]
+}
